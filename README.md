@@ -22,9 +22,10 @@ The code in this repository is based on the work done in [the github](https://gi
 ### Running the Code
 
 To run the basic experiment implemented in this repository, use the following command:
-    ```bash
-    python main.py --experiment basic
-
+   ```bash
+   python train_net.py --config-file "experiments/HC-STVG/e2e_STCAT_R101_HCSTVG.yaml"
+   python train_net.py --config-file "experiments/VidSTG/e2e_STCAT_R101_VidSTG.yaml"
+   ```   
 ## Note
 
 The code for other experiments is currently being updated and will be added to the repository soon. Stay tuned for updates!
