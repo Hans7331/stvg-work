@@ -1,0 +1,12 @@
+torchtext
+timm==0.4.12
+tensorboard==2.2.2
+pytorch-pretrained-bert
+transformers==4.5.1
+Pillow
+scikit-learn
+opencv_python
+ffmpeg_python
+scipy
+cython
+tqdm
